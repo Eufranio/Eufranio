@@ -1,7 +1,7 @@
 # Hey there 👋 I'm Eufranio Lima
 
-I am a Computer Science student at Federal University of Sergipe, Brazil, since 2018.<br>
-I enjoy developing small websites or applications, web and mobile apps, and Minecraft plugins/mods mainly using Java.
+I am a professional Mobile Developer, graduated at Federal University of Sergipe, Brazil, since 2018-2023.<br>
+I enjoy developing web and mobile applications, mainly using Flutter, and Minecraft plugins/mods using Java.
 
 If you want to know more about me and my work, please visit my [**developer page!**](https://eufranio.dev/) ✨
 
